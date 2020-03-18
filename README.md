@@ -5,8 +5,15 @@
 1. Teoria:  M01: Cloud concepts && M02: Core Azure services
 1. LAB - 5p:
     - START YOUR FIRST LINUX VIRTUAL MACHINE ON AZURE;
+        - Main scenario: https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/
+        - Extra resources:
+            - https://www.youtube.com/watch?v=fnqCSQ3WGTw
+            - https://docs.microsoft.com/pl-pl/azure/virtual-machines/linux/quick-create-cli
     - Sprawozdanie (w formie video) ma zawierać:
-        - Nazwa: Programowanie usług w chmurze - Moja pierwsza wirtualna maszyna na Azure
+        - Nazwa: "Lab 01 - Moja pierwsza wirtualna maszyna na Azure - Programowanie usług w chmurze"
+        - Pokazanie logowania do Azure Portal
+        - Wszystkie kroki zawarte w "Main scenario" ( w tym zalogowanie się po SSH)
+        - Usunięcie wirtualnej maszyny
 
 ## 26.03
 1. Teoria - M03: Security, privacy, compliance, and trust
