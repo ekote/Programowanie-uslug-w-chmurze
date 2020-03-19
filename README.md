@@ -12,8 +12,8 @@
     - Sprawozdanie (w formie video) ma zawierać:
         - Nazwa: "Lab 01 - Moja pierwsza wirtualna maszyna na Azure - Programowanie usług w chmurze"
         - Pokazanie logowania do Azure Portal
-        - Wszystkie kroki zawarte w "Main scenario" ( w tym zalogowanie się po SSH)
-        - Usunięcie wirtualnej maszyny
+        - Wszystkie kroki, które są efektem "Main scenario" ( w tym zalogowanie się po SSH); omówienie networking; omówienie pierwszych pięciu głównych zakładek + wszystkie zakładki z Settings.
+    - Proszę usunąć VMke na koniec
 
 ## 26.03
 1. Teoria - M03: Security, privacy, compliance, and trust
