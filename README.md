@@ -61,6 +61,7 @@
 - Podejrzenie (samo podejrzenie) o niesamodzielności wykonania zadania (labu) jest podstawą do wyzerowania wszystkich labów i wystawienia "Nzal"
 - Szczerość, Zaufanie
 - Picie kawy i innych napoi w czasie zajęć - na własną odpowiedzialność ;) 
+- Najlepsze prace (kilka) z każego labu może zostać podlinkowane do tego repozytorium
 
 # Oddawanie Labu 
 - http://bit.ly/2WohDOK (7:15 przed kolejnymi zajęciami)
