@@ -21,7 +21,7 @@
 1. Wybór labów
 1. LAB - 10p
 - App modernization
-- Intelligent analytics
+- [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
 
 ## 02.04
 1. Teoria - M04 - 
@@ -105,6 +105,8 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 - 28.05 - konsultacje online dla chętnych
 - 4.06 - Oddanie projektu 
 - 11.06 - Wystawienie ocen
+
+## Inspiracje projektowe
 
 ### Oddanie projektu
 - Video na YT z prezentacją rozwiązania
