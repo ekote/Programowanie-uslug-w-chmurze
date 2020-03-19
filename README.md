@@ -60,6 +60,7 @@
 - Za sprawozdanie udostępnione/zuploadowane po terminie (powyżej 7d) nie są przyznawane punkty
 - Podejrzenie (samo podejrzenie) o niesamodzielności wykonania zadania (labu) jest podstawą do wyzerowania wszystkich labów i wystawienia "Nzal"
 - Szczerość, Zaufanie
+- Picie kawy i innych napoi w czasie zajęć - na własną odpowiedzialność ;) 
 
 # Oddawanie Labu 
 - http://bit.ly/2WohDOK (7:15 przed kolejnymi zajęciami)
