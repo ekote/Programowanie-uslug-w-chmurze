@@ -14,7 +14,7 @@
         - Pokazanie logowania do Azure Portal
         - Wszystkie kroki, które są efektem "Main scenario" ( w tym zalogowanie się po SSH); omówienie networking; omówienie pierwszych pięciu głównych zakładek + wszystkie zakładki z Settings.
     - Proszę usunąć VMke na koniec
-1. ![Image](Images\2020-03-19_10h02_37.png)
+1. ![Image](Images/2020-03-19_10h02_37.png)
 
 
 
