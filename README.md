@@ -58,6 +58,11 @@
 - Deadline na publikacje, to 1h przed kolejnymi zajęciami, na których nowe laby są prezentowane
 - Za sprawozdanie udostępnione/zuploadowane po terminie (maksymalnie do 7d) można uzyskać połowę punktów
 - Za sprawozdanie udostępnione/zuploadowane po terminie (powyżej 7d) nie są przyznawane punkty
+- Podejrzenie (samo podejrzenie) o niesamodzielności wykonania zadania (labu) jest podstawą do wyzerowania wszystkich labów i wystawienia "Nzal"
+- Szczerość, Zaufanie
+
+# Oddawanie Labu 
+- http://bit.ly/2WohDOK (7:15 przed kolejnymi zajęciami)
 
 # Ocena z laboratorium
 - Max 35p z hands-on labs
