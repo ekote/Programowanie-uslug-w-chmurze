@@ -117,4 +117,5 @@ W ramach projektu studenci wykonują kompletny prosty system składający się z
 
 
 ## Links
-[source][https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content]
+- [source][https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content]
+- https://azurecharts.com/overview
