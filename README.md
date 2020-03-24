@@ -17,14 +17,19 @@
 1. ![Image](Images/2020-03-19_10h02_37.png)
 
 
-
 ## 26.03
 1. Teoria - M03: Security, privacy, compliance, and trust
 1. Omowienie labów
-1. Wybór labów
+1. Wybór labów - [deklaracja per osoba](https://bit.ly/33FiI6q)
 1. LAB - 10p
-- App modernization
+- [App modernization](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization.md)
 - [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
+- Sprawozdanie (w formie video) ma zawierać:
+    - Nazwa: "Lab 02 - <nazwa laba> - Programowanie usług w chmurze"
+    - Pokazanie logowania do Azure Portal
+    - Wszystkie kroki, które są *efektem* wykonania labu z omówieniem:
+        - <TBC>
+- Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów) 
 
 ## 02.04
 1. Teoria - M04 - 
@@ -35,8 +40,9 @@
 1. Omowienie labów
 1. Wybór labów
 1. LAB - 10p
-- Serverless architecture
-- Cognitive services and deep learning && (Media AIM or Internet of Things)
+- [Serverless architecture](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Serverless%20architecture.md) ([Before labs](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Serverless%20architecture.md))
+- [Cognitive services and deep learning](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning/tree/master/Hands-on%20lab) && ([Media AI](https://github.com/microsoft/MCW-Media-AI/tree/master/Hands-on%20lab) or [Internet of Things](https://github.com/microsoft/MCW-Internet-of-Things/tree/master/Hands-on%20lab))
+- Uwaga - tego labu nie usuwamy. Będzie on sprawdzany. 
 
 ## 16.04
 1. Omowienie labów
@@ -46,7 +52,7 @@
 
 ## 23.04
 1. Omowienie labu
-1. LAB - 10p - Kubernetes in action on Azure The Azure Kubernetes Workshop
+1. LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
 
 ## 30.04
 1. Pomoc przy labach
@@ -110,6 +116,22 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 - 11.06 - Wystawienie ocen
 
 ## Inspiracje projektowe
+1. Wszystkie architektury realizowane w czasie labów
+1. [Centrum architektury platformy Azure](https://docs.microsoft.com/pl-pl/azure/architecture/)
+1. [Azure Blockchain](https://github.com/Microsoft/MCW-Azure-Blockchain)
+1. [Azure security and management](https://github.com/Microsoft/MCW-Azure-Security-and-Management)
+1. [Intelligent vending machines](https://github.com/Microsoft/MCW-Intelligent-Vending-Machines)
+1. [Lift and shift/Azure Resource Manager](https://github.com/Microsoft/MCW-Lift-and-shift-Azure-Resource-Manager)
+1. [Linux lift and shift](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
+1. [Microservices architecture](https://github.com/Microsoft/MCW-Microservices-Architecture)
+1. [Mobile app innovation](https://github.com/Microsoft/MCW-Mobile-App-Innovation)
+1. [Optimized architecture](https://github.com/Microsoft/MCW-Optimized-Architecture)
+1. [OSS DevOps](https://github.com/Microsoft/MCW-OSS-DevOps)
+1. [Securing PaaS](https://github.com/Microsoft/MCW-Securing-PaaS)
+1. [Cloud native apps](https://github.com/microsoft/MCW-Cloud-native-applications/tree/master/Hands-on%20lab)
+
+Polecam [wyszukiwanie architektur i warsztatów na GitHub](https://github.com/microsoft?q=MCW&type=&language=).
+
 
 ### Oddanie projektu
 - Video na YT z prezentacją rozwiązania
