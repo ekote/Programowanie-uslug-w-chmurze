@@ -141,6 +141,16 @@ Polecam [wyszukiwanie architektur i warsztatów na GitHub](https://github.com/mi
 W ramach projektu studenci wykonują kompletny prosty system składający się z gotowych usług, usług napisanych przez studentów oraz aplikacji, która wykorzystuje usługi w chmurze. System jest uruchomiony na platformie chmurowej (PaaS) wybranej przez studentów.
 
 
+## Komunikacja z prowadzącą
+
+Najszybszym sposobem na komunikację ze mną jest poprzez email: kote@ee.pw.edu.pl.
+
+Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości do prowadzących, proszone są o zapoznanie się z artykułami:
+- http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
+- http://www.multimedia.univ.rzeszow.pl/?p=1350
+- http://www.zaparzeciherbate.pl/jak-napisac-e-mail-do-wykladowcy/
+
 ## Links
 - [source][https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content]
 - https://azurecharts.com/overview
+
