@@ -25,16 +25,19 @@
     - [App modernization](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization.md)
         - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20App%20modernization.md)
         - [Manual resource setup guide](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Manual-resource-setup.md)
+        - [App Modernization with Microsoft Azure : Build 2018 - General concepts](https://www.youtube.com/watch?v=kcHhMjymt_0)
     - [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
         - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Intelligent%20analytics.md)
     - Sprawozdanie (w formie video) ma zawierać:
         - Nazwa: "Lab 02 - <nazwa laba> - Programowanie usług w chmurze"
+        - Cel danego laba
         - Pokazanie logowania studenta do Azure Portal
         - Wszystkie kroki, które są *efektem* wykonania labu plus:
-            - Opis architektury z uwzględnieniem odpowiedzialności każdego z elementów na diagramach:
+            - Opis architektury z uwzględnieniem odpowiedzialności każdego elementu z diagramu:
                 - App modernization - https://github.com/microsoft/MCW-App-modernization/raw/master/Hands-on%20lab/media/preferred-solution-architecture.png
                 - Intelligent analytics - https://github.com/microsoft/MCW-Intelligent-analytics/raw/master/Hands-on%20lab/media/preferred-solution-architecture2.png
-            - Jeśli student napotka problemy w czasie realizacji Exercise/Task i nie uda się studentowi dokończyć labów -> wymagany jest opis: co się nie udało zrealizować, root cause, potencjalny workaround i sposoby jego wykonania. 
+            - Jeśli student będzie miał problem w czasie realizacji Exercise/Task i nie uda mu się dokończyć laboratorium z powodu tego problemu wymagany jest opis: czego nie udało się zrealizować, root cause problemu, potencjalny workaround i powód, dla którego ten workaround nie może zostać wykonany.
+        - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu
     - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
 
 ## 02.04
@@ -177,3 +180,4 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 # Dodatkowe linki
 - https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content
 - https://azurecharts.com/overview
+- https://github.com/fabragaMS/ADPE2E - Azure Data Platform End2End (V2)
