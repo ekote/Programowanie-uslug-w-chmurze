@@ -140,17 +140,18 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 Polecam [wyszukiwanie architektur i warsztatów na GitHub](https://github.com/microsoft?q=MCW&type=&language=).
 
 
-### Oddanie projektu
+## Oddanie projektu
 - Video na YT z prezentacją rozwiązania
 - Github z opisanym sprawozdaniem i pełna dokumentacja
 
 ## Cel projektu
 W ramach projektu studenci wykonują kompletny prosty system składający się z gotowych usług, usług napisanych przez studentów oraz aplikacji, która wykorzystuje usługi w chmurze. System jest uruchomiony na platformie chmurowej (PaaS) wybranej przez studentów.
 
-## Ocena z laboratorium
-- 10p z review
+## Ocena z projektu
+- 10p review
 - 40p projekt
 - Oceny (procentowo)
+
 ```
 <51; 60) % 3
 <61; 70) % 3.5
@@ -167,6 +168,11 @@ Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości 
 - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
 - http://www.multimedia.univ.rzeszow.pl/?p=1350
 - http://www.zaparzeciherbate.pl/jak-napisac-e-mail-do-wykladowcy/
+
+## Konsultacje
+
+Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapisaniu przez portal ISOD.
+
 
 # Dodatkowe linki
 - https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content
