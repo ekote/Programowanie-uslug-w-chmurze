@@ -22,14 +22,20 @@
 1. Omowienie labów
 1. Wybór labów - [deklaracja per osoba](https://bit.ly/33FiI6q)
 1. LAB - 10p
-- [App modernization](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization.md)
-- [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
-- Sprawozdanie (w formie video) ma zawierać:
-    - Nazwa: "Lab 02 - <nazwa laba> - Programowanie usług w chmurze"
-    - Pokazanie logowania do Azure Portal
-    - Wszystkie kroki, które są *efektem* wykonania labu z omówieniem:
-        - <TBC>
-- Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów) 
+    - [App modernization](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization.md)
+        - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20App%20modernization.md)
+        - [Manual resource setup guide](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Manual-resource-setup.md)
+    - [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
+        - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Intelligent%20analytics.md)
+    - Sprawozdanie (w formie video) ma zawierać:
+        - Nazwa: "Lab 02 - <nazwa laba> - Programowanie usług w chmurze"
+        - Pokazanie logowania studenta do Azure Portal
+        - Wszystkie kroki, które są *efektem* wykonania labu plus:
+            - Opis architektury z uwzględnieniem odpowiedzialności każdego z elementów na diagramach:
+                - App modernization - https://github.com/microsoft/MCW-App-modernization/raw/master/Hands-on%20lab/media/preferred-solution-architecture.png
+                - Intelligent analytics - https://github.com/microsoft/MCW-Intelligent-analytics/raw/master/Hands-on%20lab/media/preferred-solution-architecture2.png
+            - Jeśli student napotka problemy w czasie realizacji Exercise/Task i nie uda się studentowi dokończyć labów -> wymagany jest opis: co się nie udało zrealizować, root cause, potencjalny workaround i sposoby jego wykonania. 
+    - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
 
 ## 02.04
 1. Teoria - M04 - 
@@ -57,7 +63,7 @@
 ## 30.04
 1. Pomoc przy labach
 
-# Inne ogłoszenia
+## Inne ogłoszenia
 - Sprawdznie obecności odbywa się na początku zajęć (teoria, wytłumaczenie labów, wybór labów - część obowiązkowa)
 - Sprawozdanie jest wykonywanie w formie video publikowane na YT (publiczne/prywatne)
 - Link do video przesyłany jest za pomocą specjalnego formularza udostępnionego dla każdego laba
@@ -72,10 +78,10 @@
 - Picie kawy i innych napoi w czasie zajęć - na własną odpowiedzialność ;) 
 - Najlepsze prace (kilka) z każego labu może zostać podlinkowane do tego repozytorium
 
-# Oddawanie Labu 
+## Oddawanie Labu 
 - http://bit.ly/2WohDOK (7:15 przed kolejnymi zajęciami)
 
-# Ocena z laboratorium
+## Ocena z laboratorium
 - Max 35p z hands-on labs
 - Max 10p test wiedzy
 - Suma Max 45p
@@ -89,7 +95,8 @@
 
 + extra 10p za zdanie egzaminu AZ-900
 ```
-# Przypomnienie regulaminu kursu
+
+## Przypomnienie regulaminu kursu
 - Nieobecność:
 Warunkiem udziału w kursie jest znajomość języka angielskiego umożliwiająca lekturę dokumentacji technicznej.
 W uzasadnionych i udokumentowanych wypadkach prowadzący zajęcia może usprawiedliwić nieobecność studenta na podstawie jego prośby o usprawiedliwienie nieobecności. Dopuszcza się jedną usprawiedliwioną nieobecność studenta w czasie semestru pod warunkiem uzupełnienia materiału zajęć z inną grupą lub na wyznaczonych przez Kierownika zajęciach dodatkowych. Większa liczba nieobecności skutkuje niezaliczeniem zajęć.
@@ -140,8 +147,19 @@ Polecam [wyszukiwanie architektur i warsztatów na GitHub](https://github.com/mi
 ## Cel projektu
 W ramach projektu studenci wykonują kompletny prosty system składający się z gotowych usług, usług napisanych przez studentów oraz aplikacji, która wykorzystuje usługi w chmurze. System jest uruchomiony na platformie chmurowej (PaaS) wybranej przez studentów.
 
+## Ocena z laboratorium
+- 10p z review
+- 40p projekt
+- Oceny (procentowo)
+```
+<51; 60) % 3
+<61; 70) % 3.5
+<71; 80) % 4
+<81; 90) % 4.5
+>= 91% 5
+```
 
-## Komunikacja z prowadzącą
+# Komunikacja z prowadzącą
 
 Najszybszym sposobem na komunikację ze mną jest poprzez email: kote@ee.pw.edu.pl.
 
@@ -150,7 +168,6 @@ Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości 
 - http://www.multimedia.univ.rzeszow.pl/?p=1350
 - http://www.zaparzeciherbate.pl/jak-napisac-e-mail-do-wykladowcy/
 
-## Links
-- [source][https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content]
+# Dodatkowe linki
+- https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content
 - https://azurecharts.com/overview
-
