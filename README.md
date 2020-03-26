@@ -114,15 +114,21 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 - 19.03 - Intro; zlaszanie tematow w ciagu tygodnia; podzial na grupy 5-6 osobowe; Podzial odpowiedzialnosci w grupie; Na koniec studenci oceniają się nawzajem
 - 26.03 - I obowiązkowe review w grupach; 15min na grupę
 - 2.04 - konsultacje online dla chętnych
-- 9.04 - konsultacje online dla chętnych
+- 9.04 - **II obowiązkowe review** (5p)
+    - Studenci w swoich zespołach zobowiązani są przygotować na spotkanie:
+        - Digaram z architekturą (komponenty Azure)
+        - Diagram przypadków użycia (funcje aplikacji/systemu/platformy)
+        - Techniczne szczegóły (np. z jakiej sieci neuronowej będą korzystać i dlaczego; jaki język programowania i biblioteka)
+        - Rozpisane zadania w dowolnym narzędziu (np. Trello, Jira, Azure DevOps, Asana, GitHub, Notatnik, Excel ... dowolne )
+        - Założone repozytorium na GitHub
 - 16.04 - konsultacje online dla chętnych
-- 23.04 - II obowiązkowe review
+- 23.04 - konsultacje online dla chętnych
 - 30.04 - konsultacje online dla chętnych
-- 7.05 - konsultacje online dla chętnych
+- 7.05 - **III obowiązkowe review** (5p)
 - 14.05  - konsultacje online dla chętnych
-- 21.05 - III obowiązkowe review
+- 21.05 - konsultacje online dla chętnych
 - 28.05 - konsultacje online dla chętnych
-- 4.06 - Oddanie projektu 
+- 4.06 - **Oddanie projektu** (40p)
 - 11.06 - Wystawienie ocen
 
 ## Inspiracje projektowe
