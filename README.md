@@ -116,7 +116,7 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 - 2.04 - konsultacje online dla chętnych
 - 9.04 - **II obowiązkowe review** (5p)
     - Studenci w swoich zespołach zobowiązani są przygotować na spotkanie:
-        - Digaram z architekturą (komponenty Azure)
+        - Digaram z architekturą - użyte komponenty Azure. Proponowane narzędzia do wykonania diagramu: Visio, Draw.io.
         - Diagram przypadków użycia (funcje aplikacji/systemu/platformy)
         - Techniczne szczegóły (np. z jakiej sieci neuronowej będą korzystać i dlaczego; jaki język programowania i biblioteka)
         - Rozpisane zadania w dowolnym narzędziu (np. Trello, Jira, Azure DevOps, Asana, GitHub, Notatnik, Excel ... dowolne )
@@ -180,7 +180,7 @@ Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości 
 
 ## Konsultacje
 
-Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapisaniu przez portal ISOD.
+Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapisaniu się przez portal ISOD.
 
 
 # Dodatkowe linki
@@ -189,3 +189,10 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 - https://github.com/fabragaMS/ADPE2E - Azure Data Platform End2End (V2)
 - https://azuredevopsdemogenerator.azurewebsites.net
 - https://szkolenie.szkolachmury.pl/azurespecjalizacja35624111
+- [Azure Spring Cloud](https://azure.microsoft.com/pl-pl/blog/introducing-azure-spring-cloud-fully-managed-service-for-spring-boot-microservices/)
+- [Spring on Azure integration documentation](https://docs.microsoft.com/en-us/azure/java/spring-framework/?view=azure-java-stable)
+- [Face detection](https://docs.microsoft.com/en-au/azure/cognitive-services/face/)
+    - [Demo w PYthonie](https://docs.microsoft.com/en-au/azure/cognitive-services/face/quickstarts/python)
+- [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/)
+- [Azure Machine Learning](https://docs.microsoft.com/pl-pl/azure/machine-learning/)
+- [Azure Notebooks](https://docs.microsoft.com/pl-pl/azure/notebooks/tutorial-create-run-jupyter-notebook)
