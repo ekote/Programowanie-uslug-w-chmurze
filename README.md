@@ -181,3 +181,4 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 - https://github.com/microsoft/computerscience/tree/master/Educator%20Resources/Complimentary%20Course%20Content
 - https://azurecharts.com/overview
 - https://github.com/fabragaMS/ADPE2E - Azure Data Platform End2End (V2)
+- https://azuredevopsdemogenerator.azurewebsites.net
