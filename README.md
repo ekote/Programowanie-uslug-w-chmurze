@@ -20,7 +20,7 @@
 ## 26.03
 1. Teoria - M03: Security, privacy, compliance, and trust
 1. Omowienie labów
-1. Wybór labów - [deklaracja per osoba](https://bit.ly/33FiI6q)
+1. Wybór labów - [deklaracja per osoba](https://bit.ly/33FiI6q) - do 29.03.2020 23:59.
 1. LAB - 10p
     - [App modernization](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization.md)
         - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-App-modernization/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20App%20modernization.md)
@@ -29,7 +29,7 @@
     - [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
         - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Intelligent%20analytics.md)
     - Sprawozdanie (w formie video) ma zawierać:
-        - Nazwa: "Lab 02 - <nazwa laba> - Programowanie usług w chmurze"
+        - Nazwa: "Lab 02 - "nazwa laba" - Programowanie usług w chmurze"
         - Cel danego laba
         - Pokazanie logowania studenta do Azure Portal
         - Wszystkie kroki, które są *efektem* wykonania labu plus:
