@@ -182,3 +182,4 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 - https://azurecharts.com/overview
 - https://github.com/fabragaMS/ADPE2E - Azure Data Platform End2End (V2)
 - https://azuredevopsdemogenerator.azurewebsites.net
+- https://szkolenie.szkolachmury.pl/azurespecjalizacja35624111
