@@ -196,3 +196,4 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 - [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/)
 - [Azure Machine Learning](https://docs.microsoft.com/pl-pl/azure/machine-learning/)
 - [Azure Notebooks](https://docs.microsoft.com/pl-pl/azure/notebooks/tutorial-create-run-jupyter-notebook)
+- https://azure.microsoft.com/pl-pl/pricing/calculator/
