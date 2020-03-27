@@ -198,3 +198,4 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 - [Azure Notebooks](https://docs.microsoft.com/pl-pl/azure/notebooks/tutorial-create-run-jupyter-notebook)
 - https://azure.microsoft.com/pl-pl/pricing/calculator/
 - https://github.com/SpektraSystems/Infrastructure-as-Code
+- [Azure Machine Learning Service Labs](https://github.com/solliancenet/azure-machine-learning-service-labs)
