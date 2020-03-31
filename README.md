@@ -39,6 +39,25 @@
             - Jeśli student będzie miał problem w czasie realizacji Exercise/Task i nie uda mu się dokończyć laboratorium z powodu tego problemu wymagany jest opis: czego nie udało się zrealizować, root cause problemu, potencjalny workaround i powód, dla którego ten workaround nie może zostać wykonany.
         - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu
     - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
+1. Dodatkowe ogłoszenie
+```
+Pandemia koronawirusa sprawia, że dużo sektorów zostało zmuszonych do cyfrowej transformacji [1].
+
+Przez to datacenters Microsoftu są mocno obłożone mówiąc delikatnie. Szczególnie w dwóch regionach: Europa i USA, w których brakuje zasobów obliczeniowych.
+
+Z tego powodu Microsoft wyłącza możliwość stawiania niektórych zasobów (tych najbardziej kosztowych pod względem potrzebnej infrastruktury) w pierwszej kolejności dla kont, które nie są podpięte jako płatnicy (Pay as you go). To powoduje, że mogą być blokady w provisioningu np. Azure SQL Db. [2 , 3]. Co będzie dalej - niestety nie wiadomo. Nie mam dostępu do listy zasobów już zablokowanych. 
+
+Jak to wpływa na laboratorium / projekt:
+- proszę się upewnić, że włączyliście możliwość provisioningu danego typu zasobu w ramach subskrypcji [4]
+- jeśli nie możecie postawić SQL DB to albo możecie zastąpić tę bazę np. poprzez Azure PostgreSQL albo w przypadku labu nr 2 - zrobić lab "Intelligent analytics". 
+
+
+[1] https://www.reddit.com/r/sysadmin/comments/fry2b7/who_accelerated_digital_transformation_in_your/
+[2] https://social.technet.microsoft.com/Forums/azure/en-US/461b4364-1d76-4537-9f8e-3eb60d2ca137/create-sql-database-server-location-africa-south-africa-north?forum=ssdsgetstarted
+[3] https://social.technet.microsoft.com/Forums/en-US/ac0376cb-2a0e-4dc2-a52c-d986989e6801/unable-to-create-sql-database-server?forum=ssdsgetstarted
+[4] https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types
+
+```
 
 ## 02.04
 1. Teoria - M04 - 
