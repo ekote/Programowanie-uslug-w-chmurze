@@ -190,7 +190,7 @@ W ramach projektu studenci wykonują kompletny prosty system składający się z
 
 # Komunikacja z prowadzącą
 
-Najszybszym sposobem na komunikację ze mną jest poprzez email: kote@ee.pw.edu.pl.
+Komunikacja prowadząca-studenci odbywa się poprzez email: kote@ee.pw.edu.pl.
 
 Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości do prowadzących, proszone są o zapoznanie się z artykułami:
 - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
