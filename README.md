@@ -1,7 +1,7 @@
 # Cloud computing
 1DI2338: Programowanie usług w chmurze / Cloud computing couse at Warsaw University of Technology
 
-## 19.03
+## LAB-01 - 19.03
 1. Teoria:  M01: Cloud concepts && M02: Core Azure services
 1. LAB - 5p:
     - START YOUR FIRST LINUX VIRTUAL MACHINE ON AZURE;
@@ -17,7 +17,7 @@
 1. ![Image](Images/2020-03-19_10h02_37.png)
 
 
-## 26.03
+## LAB-02 - 26.03
 1. Teoria - M03: Security, privacy, compliance, and trust
 1. Omowienie labów
 1. Wybór labów - [deklaracja per osoba](https://bit.ly/33FiI6q) - do 29.03.2020 23:59.
@@ -41,30 +41,52 @@
     - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
 
 ## 02.04
-1. Teoria - M04 - 
+1. Teoria - M04.
 1. Pomoc przy labach
 
-## 9.04
-1. Teoria - M04
-1. Omowienie labów
-1. Wybór labów
+## LAB-03 - 9.04
+1. Omowienie dostepnych scenariuszy do realizacji.
 1. LAB - 10p
 - [Serverless architecture](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Serverless%20architecture.md) ([Before labs](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Serverless%20architecture.md))
-- [Cognitive services and deep learning](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning/tree/master/Hands-on%20lab) && ([Media AI](https://github.com/microsoft/MCW-Media-AI/tree/master/Hands-on%20lab) or [Internet of Things](https://github.com/microsoft/MCW-Internet-of-Things/tree/master/Hands-on%20lab))
-- Uwaga - tego labu nie usuwamy. Będzie on sprawdzany. 
+- [Cognitive services and deep learning](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning/tree/master/Hands-on%20lab)
+- [Media AI](https://github.com/microsoft/MCW-Media-AI/tree/master/Hands-on%20lab)
+- [Internet of Things](https://github.com/microsoft/MCW-Internet-of-Things/tree/master/Hands-on%20lab)
+- Sprawozdanie (w formie video) ma zawierać:
+    - Nazwa: "Lab 03 - "nazwa laboratorium" - Programowanie usług w chmurze"
+    - Cel danego laboratorium
+    - Pokazanie logowania studenta do Azure Portal
+    - Wszystkie kroki, które są *efektem* wykonania labu plus:
+        - Opis architektury z uwzględnieniem odpowiedzialności każdego elementu z diagramu dla danego laboratorium.
+        - Jeśli student będzie miał problem w czasie realizacji Exercise/Task i nie uda mu się dokończyć laboratorium z powodu tego problemu wymagany jest opis: czego nie udało się zrealizować, root cause problemu, potencjalny workaround i powód, dla którego ten workaround nie może zostać wykonany.
+    - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu/platformy/aplikacji.
+- Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
+1. Zapisy na AZ-900 - proszę o wpisanie się [na listę](https://docs.google.com/forms/d/e/1FAIpQLSfUlph6ldSwi4FuufcgcCWZncQzL_m-zKlezSuTKmXIvGnXBg/viewform)
 
 ## 16.04
-1. Omowienie labów
 1. Pomoc przy labach
 1. Test wiedzy (poziom AZ-900); 10p
     - najlepsi ("N" liczba) dostaną voucher na egzamin
 
-## 23.04
+## LAB-04 - 23.04
 1. Omowienie labu
 1. LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
 
 ## 30.04
 1. Pomoc przy labach
+
+## Azure - problemy z subskrypcja
+Studenci, którzy nie mają konta studenckiego w Azure lub ich subskrypcja nie pozwala na realizowanie labu proszone są o kontakt z prowadzącą.
+
+Dostępne rozwiązania:
+1. Prowadząca udostępni studentowi przestrzeń w jej subskrypcji.
+1. Prowadząca udostępni studentowi jedną z jej subskrypcji (subskrypcja typu - Subskrypcja programu Visual Studio Enterprise).
+1. Utworzenie nowego konta trial i podpięcie karty kredytowej z numerem np. z revolut. Gdy student nie ma konta revolut to proszę zgłosić się do prowadzącej.
+1. Realizacja zamiennego labu na GCP. 
+
+## GCP
+- [Link](https://inthecloud.withgoogle.com/training-discount/register.html) do rejestracji (30 dni darmowego dostępu).
+- [Wiadomość video od prowadzącej z dn. 05.04.2020](https://youtu.be/NgZXBHS4_mY)
+
 
 ## Inne ogłoszenia
 - Sprawdznie obecności odbywa się na początku zajęć (teoria, wytłumaczenie labów, wybór labów - część obowiązkowa)
@@ -180,7 +202,7 @@ Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości 
 
 ## Konsultacje
 
-Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapisaniu się przez portal ISOD.
+Konsultacje online odbywają się we wtorki w godz. 16-21 po wcześniejszym zapisaniu się przez portal ISOD.
 
 
 # Dodatkowe linki
@@ -196,3 +218,9 @@ Konsultacje online odbywają się we wtorki w godz. 16-19 po wcześniejszym zapi
 - [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/)
 - [Azure Machine Learning](https://docs.microsoft.com/pl-pl/azure/machine-learning/)
 - [Azure Notebooks](https://docs.microsoft.com/pl-pl/azure/notebooks/tutorial-create-run-jupyter-notebook)
+
+# Courses
+- [Developing AI Applications on Azure - Coursea](https://www.coursera.org/learn/developing-ai-applications-azure?action=enroll)
+- [Developing Big Data Solutions with Azure Machine Learning - EDX](https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l)
+- [A-Z Machine Learning using Azure Machine Learning (AzureML) - Udemy](https://www.udemy.com/course/machine-learning-using-azureml/)
+- [Red Hat - Linux / Docker / Kubernetes](https://www.redhat.com/en/services/training-and-certification)
