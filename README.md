@@ -39,6 +39,25 @@
             - Jeśli student będzie miał problem w czasie realizacji Exercise/Task i nie uda mu się dokończyć laboratorium z powodu tego problemu wymagany jest opis: czego nie udało się zrealizować, root cause problemu, potencjalny workaround i powód, dla którego ten workaround nie może zostać wykonany.
         - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu
     - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
+1. Dodatkowe ogłoszenie
+```
+Pandemia koronawirusa sprawia, że dużo sektorów zostało zmuszonych do cyfrowej transformacji [1].
+
+Przez to datacenters Microsoftu są mocno obłożone mówiąc delikatnie. Szczególnie w dwóch regionach: Europa i USA, w których brakuje zasobów obliczeniowych.
+
+Z tego powodu Microsoft wyłącza możliwość stawiania niektórych zasobów (tych najbardziej kosztowych pod względem potrzebnej infrastruktury) w pierwszej kolejności dla kont, które nie są podpięte jako płatnicy (Pay as you go). To powoduje, że mogą być blokady w provisioningu np. Azure SQL Db. [2 , 3]. Co będzie dalej - niestety nie wiadomo. Nie mam dostępu do listy zasobów już zablokowanych. 
+
+Jak to wpływa na laboratorium / projekt:
+- proszę się upewnić, że włączyliście możliwość provisioningu danego typu zasobu w ramach subskrypcji [4]
+- jeśli nie możecie postawić SQL DB to albo możecie zastąpić tę bazę np. poprzez Azure PostgreSQL albo w przypadku labu nr 2 - zrobić lab "Intelligent analytics". 
+
+
+[1] https://www.reddit.com/r/sysadmin/comments/fry2b7/who_accelerated_digital_transformation_in_your/
+[2] https://social.technet.microsoft.com/Forums/azure/en-US/461b4364-1d76-4537-9f8e-3eb60d2ca137/create-sql-database-server-location-africa-south-africa-north?forum=ssdsgetstarted
+[3] https://social.technet.microsoft.com/Forums/en-US/ac0376cb-2a0e-4dc2-a52c-d986989e6801/unable-to-create-sql-database-server?forum=ssdsgetstarted
+[4] https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types
+
+```
 
 ## 02.04
 1. Teoria - M04.
@@ -193,7 +212,7 @@ W ramach projektu studenci wykonują kompletny prosty system składający się z
 
 # Komunikacja z prowadzącą
 
-Najszybszym sposobem na komunikację ze mną jest poprzez email: kote@ee.pw.edu.pl.
+Komunikacja prowadząca-studenci odbywa się poprzez email: kote@ee.pw.edu.pl.
 
 Osoby, które nie wiedzą lub mają trudności w pisaniu formalnych wiadomości do prowadzących, proszone są o zapoznanie się z artykułami:
 - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
@@ -218,9 +237,13 @@ Konsultacje online odbywają się we wtorki w godz. 16-21 po wcześniejszym zapi
 - [Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/)
 - [Azure Machine Learning](https://docs.microsoft.com/pl-pl/azure/machine-learning/)
 - [Azure Notebooks](https://docs.microsoft.com/pl-pl/azure/notebooks/tutorial-create-run-jupyter-notebook)
+- https://azure.microsoft.com/pl-pl/pricing/calculator/
+- https://github.com/SpektraSystems/Infrastructure-as-Code
+- [Azure Machine Learning Service Labs](https://github.com/solliancenet/azure-machine-learning-service-labs)
 
 # Courses
 - [Developing AI Applications on Azure - Coursea](https://www.coursera.org/learn/developing-ai-applications-azure?action=enroll)
 - [Developing Big Data Solutions with Azure Machine Learning - EDX](https://www.edx.org/course/developing-big-data-solutions-with-azure-machine-l)
 - [A-Z Machine Learning using Azure Machine Learning (AzureML) - Udemy](https://www.udemy.com/course/machine-learning-using-azureml/)
 - [Red Hat - Linux / Docker / Kubernetes](https://www.redhat.com/en/services/training-and-certification)
+
