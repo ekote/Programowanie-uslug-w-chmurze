@@ -80,17 +80,21 @@ Jak to wpływa na laboratorium / projekt:
     - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu/platformy/aplikacji.
 - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
 1. Zapisy na AZ-900 - proszę o wpisanie się [na listę](https://docs.google.com/forms/d/e/1FAIpQLSfUlph6ldSwi4FuufcgcCWZncQzL_m-zKlezSuTKmXIvGnXBg/viewform)
+1. Przegląd narzędzi - deep dive into Azure Databricks.
 
 ## 16.04
+1. Przegląd narzędzi - deep dive into containers on Azure.
 1. Pomoc przy labach
 1. Test wiedzy (poziom AZ-900); 10p
     - najlepsi ("N" liczba) dostaną voucher na egzamin
 
 ## LAB-04 - 23.04
+1. Przegląd narzędzi - deep dive into Cognitive Services. 
 1. Omowienie labu
 1. LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
 
 ## 30.04
+1. Przegląd narzędzi.
 1. Pomoc przy labach
 
 ## Azure - problemy z subskrypcja
