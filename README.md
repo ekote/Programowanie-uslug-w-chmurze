@@ -28,6 +28,7 @@
         - [App Modernization with Microsoft Azure : Build 2018 - General concepts](https://www.youtube.com/watch?v=kcHhMjymt_0)
     - [Intelligent analytics](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Intelligent%20analytics.md)
         - [before the hands-on lab setup guide](https://github.com/microsoft/MCW-Intelligent-analytics/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Intelligent%20analytics.md)
+        - problem ze stawianiem VMki? tutaj [rozwiazanie](https://youtu.be/IEyzfo3uAfw)
     - Sprawozdanie (w formie video) ma zawierać:
         - Nazwa: "Lab 02 - "nazwa laba" - Programowanie usług w chmurze"
         - Cel danego laba
