@@ -82,6 +82,11 @@ Jak to wpływa na laboratorium / projekt:
 - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
 1. Zapisy na AZ-900 - proszę o wpisanie się [na listę](https://docs.google.com/forms/d/e/1FAIpQLSfUlph6ldSwi4FuufcgcCWZncQzL_m-zKlezSuTKmXIvGnXBg/viewform)
 1. Przegląd narzędzi - deep dive into Azure Databricks.
+1. CosmosDB issue - solution 
+    - "A Stream Analytics Job provides a simple mechanism for pulling the chat messages from the second Event Hub and writing them to Cosmos DB for archiving" -> zamieniamy CosmosDB na Storage Account Blob. Jak? [link](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-quick-create-portal#configure-job-output)
+    - Odpuszczamy klocek z "Search", który jest podpięty do cosmosdb na diagramie architektury (czyli Task 8: Provision Azure Search)
+ 
+
 
 ## 16.04
 1. Przegląd narzędzi - deep dive into containers on Azure.
