@@ -176,10 +176,19 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 - 23.04 - konsultacje online dla chętnych
 - 30.04 - konsultacje online dla chętnych
 - 7.05 - **III obowiązkowe review** (5p)
+    - Studenci w swoich zespołach zobowiązani są przygotować na spotkanie:
+        - utrzymane wszystkie punty z wcześniejszego review
+        - zalążek architektury postawiony na Azure
+        - progres w realizacji zadań per członek zespołu
+
 - 14.05  - konsultacje online dla chętnych
 - 21.05 - konsultacje online dla chętnych
 - 28.05 - konsultacje online dla chętnych
 - 4.06 - **Oddanie projektu** (40p)
+    - Działająca aplikacja/system
+    - Video na YT z prezentacją rozwiązania
+    - Github z opisanym sprawozdaniem i pełna dokumentacja
+    
 - 11.06 - Wystawienie ocen
 
 ## Inspiracje projektowe
