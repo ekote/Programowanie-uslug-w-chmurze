@@ -71,15 +71,15 @@ Jak to wpływa na laboratorium / projekt:
 - [Cognitive services and deep learning](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning/tree/master/Hands-on%20lab)
 - [Media AI](https://github.com/microsoft/MCW-Media-AI/tree/master/Hands-on%20lab)
 - [Internet of Things](https://github.com/microsoft/MCW-Internet-of-Things/tree/master/Hands-on%20lab)
-- Sprawozdanie (w formie video) ma zawierać:
-    - Nazwa: "Lab 03 - "nazwa laboratorium" - Programowanie usług w chmurze"
-    - Cel danego laboratorium
-    - Pokazanie logowania studenta do Azure Portal
-    - Wszystkie kroki, które są *efektem* wykonania labu plus:
-        - Opis architektury z uwzględnieniem odpowiedzialności każdego elementu z diagramu dla danego laboratorium.
-        - Jeśli student będzie miał problem w czasie realizacji Exercise/Task i nie uda mu się dokończyć laboratorium z powodu tego problemu wymagany jest opis: czego nie udało się zrealizować, root cause problemu, potencjalny workaround i powód, dla którego ten workaround nie może zostać wykonany.
-    - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu/platformy/aplikacji.
-- Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
+    - Sprawozdanie (w formie video) ma zawierać:
+        - Nazwa: "Lab 03 - "nazwa laboratorium" - Programowanie usług w chmurze"
+        - Cel danego laboratorium
+        - Pokazanie logowania studenta do Azure Portal
+        - Wszystkie kroki, które są *efektem* wykonania labu plus:
+            - Opis architektury z uwzględnieniem odpowiedzialności każdego elementu z diagramu dla danego laboratorium.
+            - Jeśli student będzie miał problem w czasie realizacji Exercise/Task i nie uda mu się dokończyć laboratorium z powodu tego problemu wymagany jest opis: czego nie udało się zrealizować, root cause problemu, potencjalny workaround i powód, dla którego ten workaround nie może zostać wykonany.
+        - Wnioski z laboratorium w tym przykładowe zastosowanie zbudowanego systemu/platformy/aplikacji.
+    - Proszę pamiętać o usunięciu Resource Groups z zasobami, po zrealizowanym labie (Optymalizacja zużycia dostępnych kredytów)
 1. Zapisy na AZ-900 - proszę o wpisanie się [na listę](https://docs.google.com/forms/d/e/1FAIpQLSfUlph6ldSwi4FuufcgcCWZncQzL_m-zKlezSuTKmXIvGnXBg/viewform)
 1. Przegląd narzędzi - deep dive into Azure Databricks.
 1. CosmosDB issue - solution 
