@@ -265,6 +265,7 @@ Konsultacje online odbywają się we wtorki w godz. 16-21 po wcześniejszym zapi
 - https://azure.microsoft.com/pl-pl/pricing/calculator/
 - https://github.com/SpektraSystems/Infrastructure-as-Code
 - [Azure Machine Learning Service Labs](https://github.com/solliancenet/azure-machine-learning-service-labs)
+- https://github.com/yokawasa/azure-container-labs
 
 # Courses
 - [Developing AI Applications on Azure - Coursea](https://www.coursera.org/learn/developing-ai-applications-azure?action=enroll)
