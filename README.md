@@ -87,21 +87,27 @@ Jak to wpływa na laboratorium / projekt:
     - Odpuszczamy klocek z "Search", który jest podpięty do cosmosdb na diagramie architektury (czyli Task 8: Provision Azure Search)
  
 
-
 ## 16.04
+1. Informacje o obowiązkowym teście wiedzy (za 10p) przygotowującym do egzaminu AZ-900 
 1. Przegląd narzędzi - deep dive into containers on Azure.
-1. Pomoc przy labach
-1. Test wiedzy (poziom AZ-900); 10p
-    - najlepsi ("N" liczba) dostaną voucher na egzamin
+1. Demo GCP i pokazanie dostępnych labów
+1. Konsultacje
+1. Uwaga!! Oddanie LAB-03 przedłużone do 7:15 30.04
 
-## LAB-04 - 23.04
-1. Przegląd narzędzi - deep dive into Cognitive Services. 
+## 23.04 - nie ma zajęć
+
+## LAB-04 - 30.04
+1. Przegląd narzędzi - deep dive into Cognitive Services
 1. Omowienie labu
-1. LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
+    - LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
+    - Zammienny LAB na GCP
+1. Test wiedzy przygotowujący do egzaminu AZ-900; Obowiązkowy za 10p
 
-## 30.04
-1. Przegląd narzędzi.
-1. Pomoc przy labach
+## 07.05
+1. Konsultacje dla chętnych
+
+# 14.05 
+1. Wystawienie punktów za laboratorium
 
 ## Azure - problemy z subskrypcja
 Studenci, którzy nie mają konta studenckiego w Azure lub ich subskrypcja nie pozwala na realizowanie labu proszone są o kontakt z prowadzącą.
