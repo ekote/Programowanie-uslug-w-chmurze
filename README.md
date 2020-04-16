@@ -111,12 +111,13 @@ Jak to wpływa na laboratorium / projekt:
 1. 8:30/8:45 - Test wiedzy przygotowujący do egzaminu AZ-900; Obowiązkowy za 10p; w jez. angielskim
 
 ## 07.05 - nie ma zajęć
+- Dodatkowy tydzien na zrobienie LAB-04 dla Was.
 
-# 7- 14.05 
-1. Oddanie projektow 
+## 7- 14.05 
+1. Oddanie projektow
     - Lab04 - do 7:15 14.05
-1. **Koniec laboratorium i wystawienie punktów - po tym terminie nie ma mozliwosci uzyskania punktow za zrealizowanie laboratorium**
-
+1. **Koniec laboratorium - po tym terminie nie ma mozliwosci uzyskania punktow za zrealizowanie laboratorium**
+    - wystawienie punktów nastapi w ciagu tygodnia po ostatnich zajeciach
 
 ## Azure - problemy z subskrypcja
 Studenci, którzy nie mają konta studenckiego w Azure lub ich subskrypcja nie pozwala na realizowanie labu proszone są o kontakt z prowadzącą.
