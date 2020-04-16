@@ -1,7 +1,7 @@
 # Cloud computing
 1DI2338: Programowanie usług w chmurze / Cloud computing couse at Warsaw University of Technology
 
-## LAB-01 - 19.03
+## 1 - LAB-01 - 19.03
 1. Teoria:  M01: Cloud concepts && M02: Core Azure services
 1. LAB - 5p:
     - START YOUR FIRST LINUX VIRTUAL MACHINE ON AZURE;
@@ -17,7 +17,7 @@
 1. ![Image](Images/2020-03-19_10h02_37.png)
 
 
-## LAB-02 - 26.03
+## 2- LAB-02 - 26.03
 1. Teoria - M03: Security, privacy, compliance, and trust
 1. Omowienie labów
 1. Wybór labów - [deklaracja per osoba](https://bit.ly/33FiI6q) - do 29.03.2020 23:59.
@@ -60,11 +60,11 @@ Jak to wpływa na laboratorium / projekt:
 
 ```
 
-## 02.04
+## 3- 02.04
 1. Teoria - M04.
 1. Pomoc przy labach
 
-## LAB-03 - 9.04
+## 4- LAB-03 - 9.04
 1. Omowienie dostepnych scenariuszy do realizacji.
 1. LAB - 10p
 - [Serverless architecture](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Serverless%20architecture.md) ([Before labs](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on%20lab/Before%20the%20HOL%20-%20Serverless%20architecture.md))
@@ -87,27 +87,36 @@ Jak to wpływa na laboratorium / projekt:
     - Odpuszczamy klocek z "Search", który jest podpięty do cosmosdb na diagramie architektury (czyli Task 8: Provision Azure Search)
  
 
-## 16.04
+## 5- 16.04
 1. Informacje o obowiązkowym teście wiedzy (za 10p) przygotowującym do egzaminu AZ-900 
 1. Przegląd narzędzi - deep dive into containers on Azure.
-1. Demo GCP i pokazanie dostępnych labów
+1. Demo GCP i pokazanie dostępnych labów - https://www.qwiklabs.com
 1. Konsultacje
 1. Uwaga!! Oddanie LAB-03 przedłużone do 7:15 30.04
-
+1. niebezpiecznik o aplikacji kwarantanna: https://www.youtube.com/watch?v=vB36FrcWnrY&feature=youtu.be
+1. Kurs Programowanie aplikacji mobilnych i webowych 
+    1. Level od postaw - https://bitbucket.org/zespoll/notes_from_classes/src/master/
+    1. Tryb konsultacyjny - https://github.com/ekote/pw-programowanie-aplikacji-mobilnych-i-webowych
+1. https://azureservices.io/#
+1. Przegląd narzędzi - deep dive into Cognitive Services
+    - https://docs.microsoft.com/pl-pl/azure/cognitive-services/
+ 
 ## 23.04 - nie ma zajęć
 
-## LAB-04 - 30.04
-1. Przegląd narzędzi - deep dive into Cognitive Services
-1. Omowienie labu
+
+## 6- LAB-04 - 30.04
+1. 8:15 - Omowienie labu
     - LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
     - Zammienny LAB na GCP
-1. Test wiedzy przygotowujący do egzaminu AZ-900; Obowiązkowy za 10p
+1. 8:30/8:45 - Test wiedzy przygotowujący do egzaminu AZ-900; Obowiązkowy za 10p; w jez. angielskim
 
-## 07.05
-1. Konsultacje dla chętnych
+## 07.05 - nie ma zajęć
 
-# 14.05 
-1. Wystawienie punktów za laboratorium
+# 7- 14.05 
+1. Oddanie projektow 
+    - Lab04 - do 7:15 14.05
+1. **Koniec laboratorium i wystawienie punktów - po tym terminie nie ma mozliwosci uzyskania punktow za zrealizowanie laboratorium**
+
 
 ## Azure - problemy z subskrypcja
 Studenci, którzy nie mają konta studenckiego w Azure lub ich subskrypcja nie pozwala na realizowanie labu proszone są o kontakt z prowadzącą.
