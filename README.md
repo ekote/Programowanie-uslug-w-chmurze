@@ -109,6 +109,10 @@ Jak to wpływa na laboratorium / projekt:
     - LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
     - Zammienny LAB na GCP
 1. 8:30/8:45 - Test wiedzy przygotowujący do egzaminu AZ-900; Obowiązkowy za 10p; w jez. angielskim
+    - Materialy do testu
+        - https://www.scribd.com/document/427814654/Exam-Ref-AZ-900-Microsoft-Azure-Fundamentals
+        - https://medium.com/weareservian/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a
+        - https://www.amazon.co.uk/dp/0135732182?tag=ravikirans07-21 -> https://learning.oreilly.com/library/view/exam-ref-az-900/9780135732199/ch01.xhtml#ch01 
 
 ## 07.05 - nie ma zajęć
 - Dodatkowy tydzien na zrobienie LAB-04 dla Was.
