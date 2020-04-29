@@ -106,8 +106,11 @@ Jak to wpływa na laboratorium / projekt:
 
 ## 6- LAB-04 - 30.04
 1. 8:15 - Omowienie labu
-    - LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/)
-    - Zammienny LAB na GCP
+    - LAB - 10p - [Kubernetes in action on Azure The Azure Kubernetes Workshop](https://aksworkshop.io/) - 2h 25min
+    - Zammienny scenariusz na GCP - 2h 30min
+        - [Deploy, Scale, and Update Your Website on Google Kubernetes Engine](https://www.qwiklabs.com/focuses/10470?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A3%2C%22has_search%22%3Afalse%7D&parent=catalog) - 
+        - [Build a Serverless Web App with Firebase](https://www.qwiklabs.com/focuses/8391?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A3%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5304992)
+
 1. 8:30/8:45 - Test wiedzy przygotowujący do egzaminu AZ-900; Obowiązkowy za 10p; w jez. angielskim
     - Materialy do testu
         - https://www.scribd.com/document/427814654/Exam-Ref-AZ-900-Microsoft-Azure-Fundamentals
@@ -205,9 +208,11 @@ Warunkiem zaliczenia ćwiczeń jest uzyskanie co najmniej 51% pkt.
 - 21.05 - konsultacje online dla chętnych
 - 28.05 - konsultacje online dla chętnych
 - 4.06 - **Oddanie projektu** (40p)
-    - Działająca aplikacja/system
-    - Video na YT z prezentacją rozwiązania
-    - Github z opisanym sprawozdaniem i pełna dokumentacja
+    - Działająca aplikacja/system/platforma
+    - Video na YT z prezentacją rozwiązania (link do video musi być dosłany do prowadzącej do 03.06 do godz. 19:00 )
+    - Repozytorium na Github zawierające:
+        - sprawozdanie
+        - pełną dokumentację
     
 - 11.06 - Wystawienie ocen
 
