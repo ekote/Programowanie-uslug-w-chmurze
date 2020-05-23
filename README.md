@@ -164,11 +164,11 @@ Dostępne rozwiązania:
 - Suma Max 45p
 - Oceny (procentowo)
 ```
-<51; 60) % 3
-<61; 70) % 3.5
-<71; 80) % 4
-<81; 90) % 4.5
->= 91% 5
+<51; 60) % 3 - min 22.95p
+<61; 70) % 3.5 - min 27.45p 
+<71; 80) % 4 - min 31.95p
+<81; 90) % 4.5 - min 36.45p
+>= 91% 5 - min 40.95p
 
 + extra 10p za zdanie egzaminu AZ-900
 ```
